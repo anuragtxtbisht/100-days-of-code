@@ -1,13 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 1st July, 2022
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned HTML by Building CatPhotoApp.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Learning Syntax and nesting was a challenge but, with few re-dos it was okay to complete. Learned a lot about different objects and sections on a webpage
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Image to work:** [CatPhotoApp]
+[image](https://user-images.githubusercontent.com/59251378/176813287-95021429-f841-41aa-957c-b2f74bdc1589.png)
+
+
+
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
