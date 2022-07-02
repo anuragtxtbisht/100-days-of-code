@@ -11,6 +11,13 @@
 
 
 
+### Day 2: 2nd July, 2022
+
+**Today's Progress**: Learned HTML by Building CAMPER CAFE menu App.
+
+**Thoughts:** Learning Syntax and nesting was a getting easier and the speed was much better today. Completed 50% and the remaining should be done by tomorrow.
+
+**Image to work:** Tweet from today - https://twitter.com/2CodeOrNot/status/1543191641300709376
 
 
 
