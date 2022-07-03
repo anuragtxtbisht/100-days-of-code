@@ -21,6 +21,19 @@
 
 
 
+### Day 3: 3rd July, 2022
+
+**Today's Progress**: Completed the CAMPER CAFE menu App.
+
+**Thoughts:** Some of the HTML logic was understood in a much better way today. I still struggle with CSS design file but, I got ther ein the end.
+
+**Image to work:** ![image](https://user-images.githubusercontent.com/59251378/177020153-697d605c-133f-4268-b8b1-5ff10a799b9c.png)
+
+
+
+
+
+
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
 
