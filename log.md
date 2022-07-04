@@ -25,11 +25,19 @@
 
 **Today's Progress**: Completed the CAMPER CAFE menu App.
 
-**Thoughts:** Some of the HTML logic was understood in a much better way today. I still struggle with CSS design file but, I got ther ein the end.
+**Thoughts:** Some of the HTML logic was understood in a much better way today. I still struggle with CSS design file but, I got there in the end.
 
 **Image to work:** ![image](https://user-images.githubusercontent.com/59251378/177020153-697d605c-133f-4268-b8b1-5ff10a799b9c.png)
 
 
+
+### Day 4: 4rd July, 2022
+
+**Today's Progress**: Completed the HTML colour challenge. and it was very interesting to learn about RGB and # color codes.
+
+**Thoughts:** It was very interesting to learn about RGB and # color codes.
+
+**Image to work:**![image](https://user-images.githubusercontent.com/59251378/177145441-875a78a3-e3d6-4cd4-a58c-21e03d1b81d6.png)
 
 
 
