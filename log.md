@@ -41,6 +41,16 @@
 
 
 
+### Day 5: 5th July, 2022
+
+**Today's Progress**: Completed the Registration Form build the next day morning. 
+
+**Thoughts:** It was triky as the hints are less and it makes you think and remember more of the HTML stuff.
+
+**Image to work:**![image](https://user-images.githubusercontent.com/59251378/177409933-15e8a7cd-90dc-4416-9676-93de143b97e2.png)
+
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
