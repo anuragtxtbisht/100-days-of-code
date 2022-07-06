@@ -45,11 +45,21 @@
 
 **Today's Progress**: Completed the Registration Form build the next day morning. 
 
-**Thoughts:** It was triky as the hints are less and it makes you think and remember more of the HTML stuff.
+**Thoughts:** It was tricky as the hints are less and it makes you think and remember more of the HTML stuff.
 
 **Image to work:**![image](https://user-images.githubusercontent.com/59251378/177409933-15e8a7cd-90dc-4416-9676-93de143b97e2.png)
 
 
+
+
+### Day 6: 6th July, 2022
+
+**Today's Progress**: Started working towards the HTML Certificate. 
+
+**Thoughts:** It get harder when you are just presented with user story instead of helper comments but, first step is completed today, providing basic structure to the survey form. Colours and CSS tomorrow.
+
+**Attachment Code File:**
+[build-a-survey-form.txt](https://github.com/anuragtxtbisht/100-days-of-code/files/9054103/build-a-survey-form.txt)
 
 
 ### Day 0: February 30, 2016 (Example 2)
