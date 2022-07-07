@@ -64,12 +64,21 @@
 
 ### Day 7: 7th July, 2022
 
-**Today's Progress**: Continued working towards the HTML Certificate. 
+**Today's Progress**: Continued working in HTML. 
 
 **Thoughts:** WOrked on colours, shape and format in the style.css. I passed the assessment but, I am not sure what have I built, check the attachement
 
 **Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/177674549-80762189-9eb6-4708-a605-d3c627a6c13d.png)
 
+
+
+### Day 7: 7th July, 2022
+
+**Today's Progress**: Adding more scripts to better understand CSS. 
+
+**Thoughts:** Worked on multi-image app which used Flexboards and a couple of rules for different screen sizes.
+
+**Attachment Code File:**!![image](https://user-images.githubusercontent.com/59251378/177692158-4870681f-4b5b-45f1-b866-7ab9a27a450c.png)
 
 
 
