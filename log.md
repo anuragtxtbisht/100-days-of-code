@@ -51,15 +51,28 @@
 
 
 
-
 ### Day 6: 6th July, 2022
 
 **Today's Progress**: Started working towards the HTML Certificate. 
 
-**Thoughts:** It get harder when you are just presented with user story instead of helper comments but, first step is completed today, providing basic structure to the survey form. Colours and CSS tomorrow.
+**Thoughts:** It gets harder when you are just presented with user story instead of helper comments but, first step is completed today, providing basic structure to the survey form. Colours and CSS tomorrow.
 
 **Attachment Code File:**
 [build-a-survey-form.txt](https://github.com/anuragtxtbisht/100-days-of-code/files/9054103/build-a-survey-form.txt)
+
+
+
+### Day 7: 7th July, 2022
+
+**Today's Progress**: Continued working towards the HTML Certificate. 
+
+**Thoughts:** WOrked on colours, shape and format in the style.css. I passed the assessment but, I am not sure what have I built, check the attachement
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/177674549-80762189-9eb6-4708-a605-d3c627a6c13d.png)
+
+
+
+
 
 
 ### Day 0: February 30, 2016 (Example 2)
