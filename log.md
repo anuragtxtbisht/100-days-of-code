@@ -72,7 +72,7 @@
 
 
 
-### Day 7: 7th July, 2022
+### Day 8: 8th July, 2022
 
 **Today's Progress**: Adding more scripts to better understand CSS. 
 
