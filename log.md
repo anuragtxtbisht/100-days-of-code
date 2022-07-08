@@ -82,6 +82,18 @@
 
 
 
+### Day 9: 9th July, 2022
+
+**Today's Progress**: Adding complicated nesting. 
+
+**Thoughts:** Working on Nutrition page app with some complicated nesting but, less errors today and more progress in a shorter time.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/178082397-ee96b710-9d65-4b5e-b818-c3f23af20997.png)
+
+
+
+
+
 
 
 ### Day 0: February 30, 2016 (Example 2)
