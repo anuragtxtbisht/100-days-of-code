@@ -92,6 +92,17 @@
 
 
 
+### Day 10: 10th July, 2022
+
+**Today's Progress**: Completed the Nutrition Fact app. 
+
+**Thoughts:** Nutrition page app had one of most complicated formating which required a lot of nesting but, I got there in the end.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/178104986-66ac4007-9b4d-4c4e-9ace-d225906fdc0a.png)
+
+
+
+
 
 
 
