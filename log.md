@@ -102,6 +102,13 @@
 
 
 
+### Day 11: 11th July, 2022
+
+**Today's Progress**: Jumped ship to Javascript. 
+
+**Thoughts:** It is an interesting experience learning Javascript as I went through some of the basics of creating a variable, arithmatic functions, etc. I will keep doing this for another 10 days and will review if I want to complete the HTML course.
+
+**Attachment Code File:**
 
 
 
