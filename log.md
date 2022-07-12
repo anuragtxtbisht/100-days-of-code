@@ -112,6 +112,24 @@
 
 
 
+### Day 12: 12th July, 2022
+
+**Today's Progress**: 50% Completed - Javascript Data and Algo. 
+
+**Thoughts:** Learned about Matrices, Functions, String Count & Alterations and nested functions. Good progress for today  
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/178465579-31ea2e38-4271-41a8-8f12-81593261cd10.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Day 0: February 30, 2016 (Example 2)
