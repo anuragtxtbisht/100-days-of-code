@@ -122,6 +122,13 @@
 
 
 
+### Day 13: 13th July, 2022
+
+**Today's Progress**: 75% Completed - Javascript Data and Algo. 
+
+**Thoughts:** Learned about logic statements, Golf code, counting cards and building objects. Things are difficult complicated as I progress. This 25% took longer than the other two 25%. 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/178734874-341ef9a2-3efc-40c1-89be-5687f9f35249.png)
 
 
 
