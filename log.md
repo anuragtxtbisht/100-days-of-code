@@ -132,7 +132,13 @@
 
 
 
+### Day 14: 14th July, 2022
 
+**Today's Progress**: 82% Completed - Javascript. 
+
+**Thoughts:** A little progress today as I ended up reading a few material on objects, lookups and properties. Travelling from tomorrow so progress may be little for the next few weeks but, I'm trying to complete the course by this weekend. 
+
+**Attachment Code File:**
 
 
 
