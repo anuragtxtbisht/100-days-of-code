@@ -143,6 +143,31 @@
 
 
 
+### Day 15: 15th July, 2022
+
+**Today's Progress**: Reviewed two weeks of my coding journey 
+
+**Thoughts:** Its been a learning roller coaster as I was challenged by HTML< CSS and now, Javascrip but, I am enjoying my journey so far
+
+**Attachment Code File:**
+
+
+
+
+### Day 16: 16th July, 2022
+
+**Today's Progress**: Continueing solving some complex problems with data storage, string manipulations etc, in Javascript. 
+
+**Thoughts:** It is getting complicated but, I feel I am able to get some of the logic. Let's see how it continues, haha. Trying to quickly get through the course and get started with more challenges
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/179352312-3c9fbc58-f462-4679-a8c3-310c94ea83f6.png)
+
+
+
+
+
+
+
 
 
 ### Day 0: February 30, 2016 (Example 2)
