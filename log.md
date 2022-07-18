@@ -156,11 +156,22 @@
 
 ### Day 16: 16th July, 2022
 
-**Today's Progress**: Continueing solving some complex problems with data storage, string manipulations etc, in Javascript. 
+**Today's Progress**: Continuing solving some complex problems with data storage, string manipulations etc, in Javascript. 
 
 **Thoughts:** It is getting complicated but, I feel I am able to get some of the logic. Let's see how it continues, haha. Trying to quickly get through the course and get started with more challenges
 
 **Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/179352312-3c9fbc58-f462-4679-a8c3-310c94ea83f6.png)
+
+
+
+
+### Day 16: 17th July, 2022
+
+**Today's Progress**: Continued solving some For loops in Javascript. 
+
+**Thoughts:** Javascript for loops have made me loopy. It has taken more time to complete and I had to read a few documents to understand it better. I will try to finish the course by tomorrow now. I guess, it is good to take some time & understand it properly.
+
+**Attachment Code File:*
 
 
 
