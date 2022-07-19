@@ -165,7 +165,7 @@
 
 
 
-### Day 16: 17th July, 2022
+### Day 17: 17th July, 2022
 
 **Today's Progress**: Continued solving some For loops in Javascript. 
 
@@ -174,6 +174,23 @@
 **Attachment Code File:*
 
 
+### Day 18: 18th July, 2022
+
+**Today's Progress**: Continued solving some For While and Recurssive loops in Javascript. 
+
+**Thoughts:** it is defintely getting tough.
+
+**Attachment Code File:*
+
+
+
+### Day 19: 20th July, 2022
+
+**Today's Progress**: Completed Basic Javascript. 
+
+**Thoughts:** The last few sections took way too long to comprehend and execute. WIth the help of some reading material I was able to get it done. I wanted to complete it yesterday night but, ran overtime so did it first thing in the morning..
+
+**Attachment Code File:*![image](https://user-images.githubusercontent.com/59251378/179842249-0d874233-7261-41e4-b03b-288d86670994.png)
 
 
 
