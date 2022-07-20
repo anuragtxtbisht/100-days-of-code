@@ -194,6 +194,16 @@
 
 
 
+### Day 20: 20th July, 2022
+
+**Today's Progress**: Started ES6 - Javascript. 
+
+**Thoughts:** I am enjoying this part of the course as it is making sense. haha.... Also, happy to say that I am at my 20% marker for the #100dayofcode challenge 
+
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/179966474-ffa0df97-e1a7-4441-9827-ffb528f09e5b.png)
+
+
+
 
 
 
