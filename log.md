@@ -204,6 +204,16 @@
 
 
 
+### Day 21: 21th July, 2022
+
+**Today's Progress**: ES6 completed over 50% - Javascript. 
+
+**Thoughts:** Some destructuring is easy to understand but, some are still complicated especially, the ones which have for loops in them 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/180114651-994d9ce9-b1f8-458a-9055-a05d3e036b7e.png)
+
+
+
 
 
 
