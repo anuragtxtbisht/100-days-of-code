@@ -214,6 +214,26 @@
 
 
 
+### Day 22: 23th July, 2022
+
+**Today's Progress**: ES6 completed 75% - Javascript. 
+
+**Thoughts:** Slept early yesterday night so, catching up today morning with the course.  
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/180582015-ecd22b7f-b828-408b-9db1-07a5c379d8e4.png)
+
+
+
+### Day 23: 23th July, 2022
+
+**Today's Progress**: ES6 completed 100% - Javascript. 
+
+**Thoughts:** Things started to make sense towards the end of the course. I can see the use of these scripts in real life analysis or logic building  
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/180582796-b0e5c266-f8fa-4a45-a564-bd1ff28ac9bb.png)
+
+
+
 
 
 
