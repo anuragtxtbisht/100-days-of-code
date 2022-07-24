@@ -234,6 +234,13 @@
 
 
 
+### Day 24: 24th July, 2022
+
+**Today's Progress**: REGEX completed 100% - Javascript. 
+
+**Thoughts:** Things are again back to swuare one as I hardly understood REGEX but, somehow managed to pass the course 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/180636481-2e359ea0-bc73-41ee-b815-098af5a0fee1.png)
 
 
 
