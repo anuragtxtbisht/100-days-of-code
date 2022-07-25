@@ -244,6 +244,33 @@
 
 
 
+### Day 25: 25th July, 2022
+
+**Today's Progress**: Dubugging completed and we are at 25% of the challenge. 
+
+**Thoughts:** Debugging in the course was easy but, in reaal life it is tough. HOwever, I enjoyed this chapter of javascript. 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/180741523-66aa028a-7fe0-44a8-a3c4-5e48bd33b424.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
