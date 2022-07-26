@@ -254,7 +254,13 @@
 
 
 
+### Day 26: 26th July, 2022
 
+**Today's Progress**: Basic Data Structures - completed 50%. 
+
+**Thoughts:** It is not really hard as I have enough experience with data wranlging but, the simplest thing i.e., indexing from 0 is still putting me off. 
+
+**Attachment Code File:**
 
 
 
