@@ -264,10 +264,23 @@
 
 
 
+### Day 27: 27th July, 2022
+
+**Today's Progress**: Basic Data Structures - completed. 
+
+**Thoughts:** It was not really hard at the beginning but, at the end, especially the last 5-6 questions were really complex. I barely got through them. Had to read a lot to understand my mistakes
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/181235275-b0c953d3-3c78-414d-bbb2-2e0978d6d5e4.png)
 
 
 
+### Day 28: 28th July, 2022
 
+**Today's Progress**:  
+
+**Thoughts:** It was not really hard at the beginning but, at the end, especially the last 5-6 questions were really complex. I barely got through them. Had to read a lot to understand my mistakes
+
+**Attachment Code File:**
 
 
 
