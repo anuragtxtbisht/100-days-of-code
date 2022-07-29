@@ -276,12 +276,25 @@
 
 ### Day 28: 28th July, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  No JS today, Did some work on R
 
-**Thoughts:** It was not really hard at the beginning but, at the end, especially the last 5-6 questions were really complex. I barely got through them. Had to read a lot to understand my mistakes
+**Thoughts:**  I took a sidestep into #datascience working on a Seasonality Time Series project. Read a few articles on R and DataScience 
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/181734258-1d47085a-2d56-4953-80c5-4c5f617d7897.png)
 
+
+
+### Day 29: 29th July, 2022
+
+**Today's Progress**:  Planning Day for the course
+
+**Thoughts:**  Looking at the full curriculum and aiming to complete the following
+Responsive Web Design; JavaScript Algorithms and Data Structures; Scientific Computing with Python; Data Analysis with Python; Machine Learning with Python. This means from Day61 I should start working on Python challenges. Giving the next 30 days to complete HTML, CSS, JS before starting Python.
+
+May Skip: Front End Development; Data Visualization; Back End Devlopment and APIs; Quality Assurance.
+Not Sure About: Legacy Responsive Web Design; Information Security 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/181737000-13f14c6d-9c14-452a-8908-d09410b26d0a.png)
 
 
 
