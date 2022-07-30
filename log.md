@@ -299,6 +299,29 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
+### Day 30: 30th July, 2022
+
+**Today's Progress**:  Finished Basic Algorithm Scripting 
+
+**Thoughts:**  I love scripting and totally enjoyed this section of JS. The first few questions were ough but, once I wramed up it started getting easier. At least the I was able to sovle the logic part. The actual scripting needs more work as I am still making a few syntax errors and need google's assitance to get throught. 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/181905242-be7b4383-512c-4f21-a520-b6f47840931e.png)
+
+
+
+
+### Day 31: 31st July, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**  Looking at the full curriculum and aiming to complete the following
+Responsive Web Design; JavaScript Algorithms and Data Structures; Scientific Computing with Python; Data Analysis with Python; Machine Learning with Python. This means from Day61 I should start working on Python challenges. Giving the next 30 days to complete HTML, CSS, JS before starting Python.
+
+May Skip: Front End Development; Data Visualization; Back End Devlopment and APIs; Quality Assurance.
+Not Sure About: Legacy Responsive Web Design; Information Security 
+
+**Attachment Code File:**
+
 
 
 
