@@ -312,15 +312,11 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 ### Day 31: 31st July, 2022
 
-**Today's Progress**:  
+**Today's Progress**: Oblect Oriented Programming 50% done 
 
-**Thoughts:**  Looking at the full curriculum and aiming to complete the following
-Responsive Web Design; JavaScript Algorithms and Data Structures; Scientific Computing with Python; Data Analysis with Python; Machine Learning with Python. This means from Day61 I should start working on Python challenges. Giving the next 30 days to complete HTML, CSS, JS before starting Python.
+**Thoughts:**  This was great, I skipped coding yesterday evening but, have picked it back up today morning and with another session today evening I should be back in place.
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/182054960-4e16e4a2-8e70-44ab-a6ae-d5426882b384.png)
 
-May Skip: Front End Development; Data Visualization; Back End Devlopment and APIs; Quality Assurance.
-Not Sure About: Legacy Responsive Web Design; Information Security 
-
-**Attachment Code File:**
 
 
 
