@@ -320,15 +320,22 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 ### Day 32: 1st August, 2022
 
-**Today's Progress**: Oblect Oriented Programming 100% done 
+**Today's Progress**: Object Oriented Programming 100% done 
+
+**Thoughts:**  The "Grump Cat Approves" that I have completed the OOP in JS. I enjoyed this section a lot as it makes sense to me. I was only not able to solve one question which turned out to be simpler than I expected
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/182074229-1dc99d3a-fd40-41a1-9db2-1795a802acc8.png)
+
+
+
+
+### Day 33: 2nd August, 2022
+
+**Today's Progress**:  
 
 **Thoughts:**  T...
 
-**Attachment Code File:**
-
-
-
-
+**Attachment Code File:*
 
 
 
