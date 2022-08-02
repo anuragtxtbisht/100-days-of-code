@@ -331,14 +331,21 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 ### Day 33: 2nd August, 2022
 
-**Today's Progress**:  
+**Today's Progress**: Functional Programming 50% 
 
-**Thoughts:**  T...
+**Thoughts:**  Took a long time to read and understand the problem, go through the available text and review / edit code but, things are making sense. It feels like these data activities are commonly done in the world and learning basics will be crucial.
+
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/182275863-a8cbe741-3847-4a17-9b04-85af8c83a1a5.png)
+
+
+
+### Day 34: 3nd August, 2022
+
+**Today's Progress**: Functional Programming 100% DONE!!
+
+**Thoughts:**  
 
 **Attachment Code File:*
-
-
-
 
 
 
