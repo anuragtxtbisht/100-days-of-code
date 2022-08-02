@@ -339,15 +339,22 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day 34: 3nd August, 2022
+### Day 34: 3rd August, 2022
 
 **Today's Progress**: Functional Programming 100% DONE!!
+
+**Thoughts:**  A few were challenging as I had to read a lot of comments and forums. 1 or 2 I still dont understand but, I grasped where these can be used to I can refer back in future. 
+
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/182471755-27d91d01-50ea-4997-a89e-ed036c0acb59.png)
+
+
+
+
+### Day 35: 4th  August, 2022
+
+**Today's Progress**: 
 
 **Thoughts:**  
 
 **Attachment Code File:*
-
-
-
-
 
