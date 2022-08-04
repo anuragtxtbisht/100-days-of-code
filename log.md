@@ -352,9 +352,31 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 ### Day 35: 4th  August, 2022
 
+**Today's Progress**: Intermediate Algorithm started but getting stalled a lot
+
+**Thoughts:**  This is tough as I took some time to understand and breakdown the problems
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/182946258-d218f75a-0c6a-4449-a6b2-1439f261801f.png)
+
+
+
+
+### Day 36: 5th  August, 2022
+
+**Today's Progress**: Intermediate Algorithm
+
+**Thoughts:**   I am at the 50% mark of the Intermediate Algorithm challenge 😎 Breaking down into smaller problems was easy today as I progressed well.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/182945997-c28258a2-817d-4615-82be-b35ff1642cc2.png)
+
+
+
+
+### Day 37: 6th  August, 2022
+
 **Today's Progress**: 
 
 **Thoughts:**  
 
-**Attachment Code File:*
+**Attachment Code File:**
 
