@@ -385,9 +385,18 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 ### Day 38: 7th  August, 2022
 
-**Today's Progress**:  Intermediate Algorithm 100%
+**Today's Progress**:  WTF!! Map the Debris!! 
 
-**Thoughts:**  Continued working on this section as I skipped one day before.  
+**Thoughts:**  Intermediate Algorithm 100% but, who came up with a complicated math equation to map the debris. Anyway, I continued working on this section as I skipped the day before to keep things on track.  
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/183274691-cecf7091-8c19-4085-812d-4e929e10de43.png)
+
+
+
+### Day 39: 8th  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
 
 **Attachment Code File:**
-
