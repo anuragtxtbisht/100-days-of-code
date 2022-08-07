@@ -372,11 +372,22 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day 37: 6th  August, 2022
+### Day 37: 7th  August, 2022
 
-**Today's Progress**: 
+**Today's Progress**:  Intermediate Algorithm 76%
 
-**Thoughts:**  
+**Thoughts:**  Rested one day - 6th. Continuing with this section as I had to revise mathematical functions which I dont remeber any more. It seems that I am learning the For loops much better now. 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/183274384-c9c6f000-07ae-420e-983f-43a419305c27.png)
+
+
+
+
+### Day 38: 7th  August, 2022
+
+**Today's Progress**:  Intermediate Algorithm 100%
+
+**Thoughts:**  Continued working on this section as I skipped one day before.  
 
 **Attachment Code File:**
 
