@@ -395,8 +395,12 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 ### Day 39: 8th  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Finished avaScript Algorithms and Data Structures
 
-**Thoughts:**   
+**Thoughts:**   The last section was really hard. Even though I was able to solve these problems in my head, scripting it was another challenge and I also realised that I have forgotten REGEX by now
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/183318146-6dff4eab-0d00-4cad-8883-60f2675c5fbf.png)
+Certificate** <img width="520" alt="JavaScript Algorithms and Data Structure Certificate - FreeCodeCamp" src="https://user-images.githubusercontent.com/59251378/183318272-778af7f9-56df-492f-ad49-acc7b4e6fa4a.PNG">
+
+
+
