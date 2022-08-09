@@ -400,7 +400,44 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 **Thoughts:**   The last section was really hard. Even though I was able to solve these problems in my head, scripting it was another challenge and I also realised that I have forgotten REGEX by now
 
 **Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/183318146-6dff4eab-0d00-4cad-8883-60f2675c5fbf.png)
-Certificate** <img width="520" alt="JavaScript Algorithms and Data Structure Certificate - FreeCodeCamp" src="https://user-images.githubusercontent.com/59251378/183318272-778af7f9-56df-492f-ad49-acc7b4e6fa4a.PNG">
+**Certificate** <img width="520" alt="JavaScript Algorithms and Data Structure Certificate - FreeCodeCamp" src="https://user-images.githubusercontent.com/59251378/183318272-778af7f9-56df-492f-ad49-acc7b4e6fa4a.PNG">
 
 
 
+### Day 40: 9th  August, 2022
+
+**Today's Progress**:  Building Quiz - HTML
+
+**Thoughts:**   Back to HTML as I try to finish this in the next couple of weeks. The progress is slow today as I have to revise a lot of old code and read new articles to get through each section.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/183534972-0b01cdf2-d7ce-487a-86c9-1505795adb10.png)
+
+
+
+### Day XX: th  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: th  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: th  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
