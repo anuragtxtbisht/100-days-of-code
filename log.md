@@ -414,13 +414,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: th  August, 2022
+### Day 41: 10th  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Completed the Accessibility Building Quiz
 
-**Thoughts:**   
+**Thoughts:**   This was tough as directions were slightly less clear and things were being added on as i was scripted which makes me think I should be adding these extra items automatically to these elements
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/184025392-b72c3f0c-14b1-4b28-ae19-6424c4e87421.png)
+
 
 
 
