@@ -425,6 +425,17 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
+### Day 42: 15th  August, 2022
+
+**Today's Progress**:  Completed Tribute Page 
+
+**Thoughts:**   Starting from blank is really hard as I keep forgetting the elements to use but, with a little help from previous codes, it starts to make sense.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/184553318-71bca2c2-5a72-4fd8-9819-ccb4f3d838e5.png)
+
+
+
+
 ### Day XX: th  August, 2022
 
 **Today's Progress**:  
@@ -442,3 +453,26 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 **Thoughts:**   
 
 **Attachment Code File:**
+
+
+
+
+### Day XX: th  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+### Day XX: th  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
