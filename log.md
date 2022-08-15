@@ -427,7 +427,7 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 ### Day 42: 15th  August, 2022
 
-**Today's Progress**:  Completed Tribute Page 
+**Today's Progress**:  Completed Tribute Page - Happy Independence Day
 
 **Thoughts:**   Starting from blank is really hard as I keep forgetting the elements to use but, with a little help from previous codes, it starts to make sense.
 
@@ -436,13 +436,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: th  August, 2022
+### Day 43: 16th  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  BUilding a Balance Sheet 30% there
 
-**Thoughts:**   
+**Thoughts:**   This involved a lot of typing and nesting but, it is going good. I ran out of time today but, will get back on it tomorrow and try to complete the challenge.
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/184704655-b8d1d38f-5c63-45b7-aca1-b453aad4ad65.png)
+
 
 
 
