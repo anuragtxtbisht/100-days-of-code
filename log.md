@@ -447,6 +447,18 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
+### Day 44: 17th  August, 2022
+
+**Today's Progress**:  Finished Balance Sheet challenge
+
+**Thoughts:**   learned a lot of new slectors and styling doc was intense but, a good learning experience.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/184975065-6e61cdb1-994c-4c29-aee0-4cf9d009145c.png)
+
+
+
+
+
 ### Day XX: th  August, 2022
 
 **Today's Progress**:  
@@ -455,6 +467,37 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 **Attachment Code File:**
 
+
+
+
+### Day XX: th  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: th  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+### Day XX: th  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
 
 
 
