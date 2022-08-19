@@ -459,34 +459,36 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: th  August, 2022
+### Day 45: 18th  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Started Picasso Paintaing    
 
-**Thoughts:**   
+**Thoughts:**   The progress was slow as I got stuck at work but, this is looking challeging as I can see there are a lot of layers involved.
 
-**Attachment Code File:**
-
-
-
-
-### Day XX: th  August, 2022
-
-**Today's Progress**:  
-
-**Thoughts:**   
-
-**Attachment Code File:**
+**Attachment Code File:** NONE
 
 
 
-### Day XX: th  August, 2022
 
-**Today's Progress**:  
+### Day 46: 19th  August, 2022
 
-**Thoughts:**   
+**Today's Progress**:  Finished Picasso 
 
-**Attachment Code File:**
+**Thoughts:**   I was able to complete it as I added an extra hour that I could not work yesterday. The was really hard as I struggled to layer and add shape to each images.  
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/185633795-02c159a3-41df-474c-a98f-1039c2d7e482.png)
+
+
+
+
+### Day 47: 20th  August, 2022
+
+**Today's Progress**:  Finished the Piano project
+
+**Thoughts:**   This felt relatively easy to complete as I as able to quickly script this.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/185632750-475b3dc8-04a7-438d-8628-69535afb82b1.png)
+
 
 
 
