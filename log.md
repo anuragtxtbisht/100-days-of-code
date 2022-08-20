@@ -493,13 +493,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: th  August, 2022
+### Day 48: 20th  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Fininshed Technical Documentation Project
 
-**Thoughts:**   
+**Thoughts:**   These mini projects are really hard to begin with but, as you start working on the script it starts to make sense
 
-**Attachment Code File:**
+**Attachment Code File:**![pika-2022-08-20T03_27_50 916Z](https://user-images.githubusercontent.com/59251378/185727261-eea6ee3c-b8e6-4ced-8405-76e40877883f.png)
+
 
 
 
