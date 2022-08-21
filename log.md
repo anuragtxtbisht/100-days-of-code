@@ -504,13 +504,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: th  August, 2022
+### Day 49: 21st  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  50% there Building Sky Scraper
 
-**Thoughts:**   
+**Thoughts:**   WOW the Style CSS file is getting more complicated but, I learned to create smaller sections and add colours and gradients.
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/185772825-36faa377-2f80-4047-a36b-2788a1870af0.png)
+
 
 
 
