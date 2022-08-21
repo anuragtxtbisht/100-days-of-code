@@ -516,11 +516,11 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: th  August, 2022
+### Day 50: 22nd  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  DAY 50!! and I'm half way through the challenge  
 
-**Thoughts:**   
+**Thoughts:**   This is a milestone day as I have completed half the challegene. I'm progressing well and should be continue to maintain this pace to gt to as many challenges as possible. 
 
 **Attachment Code File:**
 
