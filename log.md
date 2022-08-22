@@ -524,3 +524,53 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 **Attachment Code File:**
 
+
+
+### Day 51: 22nd  August, 2022
+
+**Today's Progress**:  Completed the Building a City Skyline
+
+**Thoughts:**   This was really long and it has gotten a bit more complicated as layers kept adding and many sections were added. 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/186005056-3948bd63-529a-447b-8f6a-a0ccbf365643.png)
+
+
+
+
+### Day XX: XX  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
