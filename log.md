@@ -526,7 +526,7 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day 51: 22nd  August, 2022
+### Day 51: 23rd  August, 2022
 
 **Today's Progress**:  Completed the Building a City Skyline
 
@@ -537,13 +537,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  August, 2022
+### Day 52: 24th  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Completed Building Magazine challenge
 
-**Thoughts:**   
+**Thoughts:**   This was a long but, easy to build challenge. Glad to complete it in a day
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/186285299-8c18ae1e-a478-4f45-b77a-f7c10891b116.png)
+
 
 
 
