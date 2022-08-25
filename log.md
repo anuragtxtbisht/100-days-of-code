@@ -548,11 +548,11 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  August, 2022
+### Day 53: 25th  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**: Almost completed Porduct Landing page BUT  
 
-**Thoughts:**   
+**Thoughts:**   Worked through 80% of the project but, got stuck on a few points that took way longer than expected
 
 **Attachment Code File:**
 
