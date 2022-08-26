@@ -569,13 +569,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  August, 2022
+### Day 55: 27th  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Completed the Feris Wheel Challenge
 
-**Thoughts:**   
+**Thoughts:**   Ths was relatively easy but, I learned animation which was cool
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/187001173-cd812e1f-e876-405f-adae-8ad4c6d04233.png)
+
 
 
 
