@@ -558,6 +558,37 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
+### Day 54: 26th  August, 2022
+
+**Today's Progress**:  Product Landing Page Completed
+
+**Thoughts:**   This would have been the toughest challenge as I spent hours trying to debug. There was a minor mistake which did not allowed my code to pass and it took me a few videos, documents and over 2 hours to get throught.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/186883310-26237aaa-b20f-4eaa-b281-2f91fd7a8782.png)
+
+
+
+
+### Day XX: XX  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
 ### Day XX: XX  August, 2022
 
 **Today's Progress**:  
