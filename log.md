@@ -580,13 +580,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  August, 2022
+### Day 56: 29th  August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Started Penguin Challenge
 
-**Thoughts:**   
+**Thoughts:**   Almost 50% done on the challenge. It is interesting to do gradient shades using CSS. The HTML code feels compact compared to the elaborated design elements of CSS
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/187096412-61cc5c2d-63a6-4b47-a1ae-4e6857ea5ae8.png)
+
 
 
 
