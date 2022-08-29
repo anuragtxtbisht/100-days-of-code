@@ -602,13 +602,15 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  August, 2022
+### Day 58: 30th August, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Completed Personal Portfolio challenge and with that completed the Front End course
 
-**Thoughts:**   
+**Thoughts:** Happy to complete the HTML CSS Challenge. Moving on to Python now   
 
-**Attachment Code File:**
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/187280197-8cd63188-0bbf-49e1-932c-34f0aa27b40f.png)
+**Certificate:** ![image](https://user-images.githubusercontent.com/59251378/187280808-f0c482e5-2851-47e5-b689-5b66d70d9429.png)
+
 
 
 
