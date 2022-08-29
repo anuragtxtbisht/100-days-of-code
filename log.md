@@ -591,6 +591,17 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
+### Day 57: 29th  August, 2022
+
+**Today's Progress**:  Completed the Penguin animation challenge
+
+**Thoughts:**   Could have been the most difficult CSS challange so far. Glad to finish it and the Penguin looks cute.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/187121815-eb0e7174-7ff5-4168-9e4e-2d1a83e482ab.png)
+
+
+
+
 ### Day XX: XX  August, 2022
 
 **Today's Progress**:  
@@ -608,3 +619,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 **Thoughts:**   
 
 **Attachment Code File:**
+
+
+
+### Day XX: XX  August, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
