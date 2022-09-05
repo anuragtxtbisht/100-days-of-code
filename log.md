@@ -614,7 +614,18 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  August, 2022
+### Day 59: 05  September, 2022
+
+**Today's Progress**:  Completed Data Visualsation with D3 
+
+**Thoughts:**   It was strange and I feel I won't be using it anytime in the future. There are better and easier tools that can do much better job. BI tools such as Power BI, Tableau or Qlik, OR Shiny in Rstats and Python Matplotlib or Plotly are much advanced and simpler to execute. 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/188443230-d06ee042-e696-4c9e-b668-34a089e1661b.png)
+
+
+
+
+### Day XX: XX  September, 2022
 
 **Today's Progress**:  
 
@@ -624,7 +635,27 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  August, 2022
+### Day XX: XX  September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX  September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX  September, 2022
 
 **Today's Progress**:  
 
