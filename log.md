@@ -614,7 +614,7 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day 59: 05  September, 2022
+### Day 59: 05 September, 2022
 
 **Today's Progress**:  Completed Data Visualsation with D3 
 
@@ -625,13 +625,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  September, 2022
+### Day 60:  06 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Completed JSON APIs and AJAX
 
-**Thoughts:**   
+**Thoughts:**   I thought I knew APIs and understood AJAX but, this was a good lesson to help me better understand it 
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/188507358-7bba645c-cfb2-47d4-81ed-c2c13a1fcc2a.png)
+
 
 
 
