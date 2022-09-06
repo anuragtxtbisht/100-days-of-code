@@ -636,13 +636,14 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  September, 2022
+### Day 61: 07 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**: Completed the Data Visualisation Certification  
 
-**Thoughts:**   
+**Thoughts:**   With a lot of referencing, I was able to complete it, however, this was a tough one and I'm still not convinced if I will ever be using it in the future.
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/188725882-0f22b5d9-a34a-49f4-ae51-cbcc6d2ad503.png)
+
 
 
 
