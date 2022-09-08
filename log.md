@@ -647,6 +647,17 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
+### Day 62: 08  September, 2022
+
+**Today's Progress**:  Started with Scientific Computing with Python 
+
+**Thoughts:**   This is fun and feels easy as I analyse data in R and excel in my workplace. First section is over quiet quickly. I am keen to complete this and move to Data Science with python.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/189040832-3d806efe-1b07-44c4-9bc8-e8c24211c1e0.png)
+
+
+
+
 ### Day XX: XX  September, 2022
 
 **Today's Progress**:  
@@ -654,6 +665,40 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 **Thoughts:**   
 
 **Attachment Code File:**
+
+
+
+
+### Day XX: XX  September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+### Day XX: XX  September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+### Day XX: XX  September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
 
 
 
