@@ -658,24 +658,25 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  September, 2022
+### Day 63: 09 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Arithmetic Arranger started
 
-**Thoughts:**   
-
-**Attachment Code File:**
-
-
-
-
-### Day XX: XX  September, 2022
-
-**Today's Progress**:  
-
-**Thoughts:**   
+**Thoughts:**   I was unable to make a start on a blank sheet. I ended up reading articlaes about it to help me with the course
 
 **Attachment Code File:**
+
+
+
+
+### Day 64: 10 September, 2022
+
+**Today's Progress**:  Arithmetic Arranger completed
+
+**Thoughts:**   With articles, forums and Github, I was able to complete the challenege. Still not fully understood but, for loops are something that I am okay with
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/189434061-1780c75b-77b6-4896-9dba-37eda651c9b1.png)
+
 
 
 
