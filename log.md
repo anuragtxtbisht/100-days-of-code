@@ -681,24 +681,25 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  September, 2022
+### Day 65: 11  September, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Started Time Caculator
 
-**Thoughts:**   
-
-**Attachment Code File:**
-
-
-
-
-### Day XX: XX  September, 2022
-
-**Today's Progress**:  
-
-**Thoughts:**   
+**Thoughts:**   Didn't get very far, only defined days and split strings to do further work
 
 **Attachment Code File:**
+
+
+
+
+### Day 66: 12  September, 2022
+
+**Today's Progress**:  Completed the Time Calculator App
+
+**Thoughts:**   The first attempt was bad, had to revist someone's code to debug & understand my error. However, the approach that this person took was different so, i ended up learning and following it. 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/189550697-22776378-6658-489c-8815-36ce01373cf4.png)
+
 
 
 
