@@ -704,7 +704,65 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX  September, 2022
+### Day 67: 13 September, 2022
+
+**Today's Progress**:  Completed the Budget App
+
+**Thoughts:**   It's difficult to start and identify all the variables but, things start working after spending two hours of hit & trial. Still reviewing a lot of codes from others to understand the approach but, overall I can read, review and understand most of the codes.
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/189753800-23ec55fe-8d2f-4cdd-b9e3-79f05711dff3.png)
+
+
+
+
+### Day XX: XX September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+### Day XX: XX September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+
+### Day XX: XX September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+
+### Day XX: XX September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+
+### Day XX: XX September, 2022
 
 **Today's Progress**:  
 
