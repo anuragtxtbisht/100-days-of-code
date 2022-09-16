@@ -715,11 +715,13 @@ Not Sure About: Legacy Responsive Web Design; Information Security
 
 
 
-### Day XX: XX September, 2022
+### Day 68: 16 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**:   Polygon Area Calculator challenge
 
-**Thoughts:**   
+**Thoughts:**   Day68 of #100daysofcode and I started working on the  Polygon Area Calculator challenge.
+For some reason I thought this will be quick and easy but, over 90mis and I am still to complete it. It's 1 am so I'll get some rest and try to finish tomorrow.
+  
 
 **Attachment Code File:**
 
