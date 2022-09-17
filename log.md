@@ -728,14 +728,13 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX September, 2022
+### Day 69: 17 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Completed Polygon Area Calculator 
 
-**Thoughts:**   
+**Thoughts:**   I am still not sure if I will be able to do it myself. Definitions are easy to write but, then logic and different folders are something that I am unsure about. Maybe I'll finish the next challenge to complete the Computational Python section and read some docs to get a better understanding of framing the problem. It feels like "My code works but, don't ask me how"
 
-**Attachment Code File:**
-
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/190833262-de072f47-5edb-4f7a-92be-20f1109f1792.png)
 
 
 
