@@ -788,13 +788,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX September, 2022
+### Day 74: 21 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**: Completed Data analysis with python  
 
-**Thoughts:**   
+**Thoughts:**   This was very useful. The last section was relatively easy as I have done tthat in R many time but, understand how python operates, modules, packages related info was good.
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/191350645-ee0e53cc-f5c0-4220-a148-3013379b5f59.png)
+
 
 
 
