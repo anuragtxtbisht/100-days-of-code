@@ -739,6 +739,66 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
+### Day 70: 18 September, 2022
+
+**Today's Progress**:  Started Working towards completing Scientific Computing with Python
+
+**Thoughts:**   "Missed entering this on Github" but, started the last project. Good progress but,the struggle is real.
+
+**Attachment Code File:**
+
+
+
+
+
+### Day 71: 19 September, 2022
+
+**Today's Progress**:  Completed The Scientific Computing with Python
+
+**Thoughts:**   I learned a lot and still feel I don't know much about it. Glad to get this done; moving on to Data Analysis
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/191151903-e089afd9-2ef4-4d1a-abac-748d7bf84188.png)
+
+
+
+
+
+
+### Day 72: 19 September, 2022
+
+**Today's Progress**:  Started Data analysis with Python
+
+**Thoughts:**   First few lessons and videos are completed. This is good progress for the day
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/191152049-7e1f7d3e-3913-4ec1-9b75-5ac0a47752cd.png)
+
+
+
+
+### Day 73: 20 September, 2022
+
+**Today's Progress**:  50% + Completed Data analysis with Python
+
+**Thoughts:**   Going good, videos are a bit too long but, the lessons are easy as I have done similar stuff with Javascript earlier
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/191152128-8262afa9-9137-497c-97dc-26a4e79299d3.png)
+
+
+
+
+
+
+### Day XX: XX September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
 ### Day XX: XX September, 2022
 
 **Today's Progress**:  
@@ -759,15 +819,4 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 **Attachment Code File:**
 
-
-
-
-
-### Day XX: XX September, 2022
-
-**Today's Progress**:  
-
-**Thoughts:**   
-
-**Attachment Code File:**
 
