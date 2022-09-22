@@ -800,6 +800,29 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
+### Day 75: 22 September, 2022
+
+**Today's Progress**:  Completed Numpy with Python
+
+**Thoughts:**   Working with matrices is always easy and this was a quick course on how to build, extract, manipulate and calcuate with python. Done and Dusted
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/191647471-113826e0-4e21-496f-8c1a-79df4a1d4ecf.png)
+
+
+
+
+
+### Day XX: XX September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
 ### Day XX: XX September, 2022
 
 **Today's Progress**:  
@@ -812,6 +835,7 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
+
 ### Day XX: XX September, 2022
 
 **Today's Progress**:  
@@ -820,4 +844,38 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 **Attachment Code File:**
 
+
+
+
+### Day XX: XX September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+
+
+### Day XX: XX September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+
+### Day XX: XX September, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
 
