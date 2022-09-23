@@ -812,13 +812,13 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX September, 2022
+### Day 76: 23 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Data Analysis with Python 20%
 
-**Thoughts:**   
+**Thoughts:**   1 out of the 5 projects is complete. Aiming to get this done in the next 4 days so I start with ML python
 
-**Attachment Code File:**
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/191872131-d939fcce-4bfe-454f-9d70-7bc82d81de47.png)
 
 
 
