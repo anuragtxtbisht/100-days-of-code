@@ -823,13 +823,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX September, 2022
+### Day 77: 24 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Data Analysis with Python 40%
 
-**Thoughts:**   
+**Thoughts:**   2 out 5. Analysing data is always easy for me but, working with multiple repit files is something I am still not used.
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/192087550-ab8123b2-a7ee-4308-a9ee-2a7f72c3acda.png)
+
 
 
 
