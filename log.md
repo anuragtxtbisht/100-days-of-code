@@ -835,15 +835,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
+### Day 78: 26 September, 2022
 
+**Today's Progress**:  Data Analysis with Python 60%
 
-### Day XX: XX September, 2022
+**Thoughts:**   3 out 5. Getting better at working with data. Remembering libraries is also getting better.
 
-**Today's Progress**:  
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/192150332-dd2be57d-8494-4c37-a630-747afedb6cb9.png)
 
-**Thoughts:**   
-
-**Attachment Code File:**
 
 
 
