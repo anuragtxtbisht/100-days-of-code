@@ -847,20 +847,21 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX September, 2022
+### Day 79: 27 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Data Analysis 80% done Time series
 
-**Thoughts:**   
+**Thoughts:**   Import errors are still bugging me but, overall understanding of scripts and flow of info is easy to grasp
 
-**Attachment Code File:**
-
-
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/192605133-6b4bcffb-b85d-44d4-a683-4d9203702b8f.png)
 
 
 
 
-### Day XX: XX September, 2022
+
+
+
+### Day 80: 28 September, 2022
 
 **Today's Progress**:  
 
