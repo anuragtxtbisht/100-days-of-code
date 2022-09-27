@@ -863,11 +863,12 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 ### Day 80: 28 September, 2022
 
-**Today's Progress**:  
+**Today's Progress**: Completed Data Analysis with Python    
 
-**Thoughts:**   
+**Thoughts:**   Happy to complete this course which had a few basic projects such as, Mean-Variance-Standard Deviation Calculator; Demographic Data Analyser; Medical Data Visualiser; Time Series Visualiser and Sea Level Predictor.
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/192607240-d873be8e-23ef-4c8a-9c0d-e38319a5f077.png)
+
 
 
 
