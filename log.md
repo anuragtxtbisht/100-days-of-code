@@ -859,8 +859,6 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-
-
 ### Day 80: 28 September, 2022
 
 **Today's Progress**: Completed Data Analysis with Python    
@@ -873,7 +871,39 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX September, 2022
+### Day 81: 2 October, 2022
+
+**Today's Progress**:  Started working with Machine Learning 
+
+**Thoughts:**   Watched a few videos to get used to Python libraries for ML
+
+**Attachment Code File:**
+
+
+
+
+### Day 82: 3 October, 2022
+
+**Today's Progress**:  24% completed ML with Python
+
+**Thoughts:**   Learning about core algorithms  
+
+**Attachment Code File:**
+
+
+
+### Day 83: 3 October, 2022
+
+**Today's Progress**:  50% completed ML with Python
+
+**Thoughts:**   Learned about core algorithms and Neural Networks 
+
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/193480925-4d6ea72b-ec6a-4e25-996d-d32744b70adb.png)
+
+
+
+
+### Day XX: XX October, 2022
 
 **Today's Progress**:  
 
@@ -881,3 +911,122 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 **Attachment Code File:**
 
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
