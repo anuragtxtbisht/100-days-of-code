@@ -903,13 +903,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 84: 4 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**: 2/3rd of the course is complete 
 
-**Thoughts:**   
+**Thoughts:**    I continue with learning Neural Networks and Natural Language Processing. A lot to process and I am not too familiar with how the algorithms work.
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/193663370-55d1c069-a94c-4307-97c9-1e9b977c0ce4.png)
+
 
 
 
