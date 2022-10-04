@@ -925,13 +925,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 86: 5 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  100% Tensorflow complete
 
-**Thoughts:**   
+**Thoughts:**   This was great!! I have to explore and learn more and maybe focus on a specialisation once I find it. Starting with Neural Network next
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/193896727-54c10dd2-183f-4940-b54f-b8296f2e2854.png)
+
 
 
 
