@@ -914,13 +914,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 85: 4 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  85% complete
 
-**Thoughts:**   
+**Thoughts:**   Building a model and understanding parameters was really useful as I have never actually understood it in such details
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/193765740-eac605d4-7ca4-418a-b14b-e2a483474840.png)
+
 
 
 
