@@ -936,13 +936,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 87: 7 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Started with learning How Neural Networks Work
 
-**Thoughts:**   
+**Thoughts:**   This looks very complicated and I feel like I should be looking at more videos and examples to better understand the internal workings of it.  
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/194431884-11e48821-3b73-42d9-8f1c-fd2a21107bbd.png)
+
 
 
 
