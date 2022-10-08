@@ -947,13 +947,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 88: 8 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  100% Complete!! How Nueral Network Works
 
-**Thoughts:**   
+**Thoughts:**   This was a comlpicated topic but, it was very well explained. The videos are short-ish, contains a lot of visual explainations and the examples are simple to follow. I have definitely improved my understanding of NN and I'm now keen to develop some projects using Colab 
 
-**Attachment Code File:**
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/194678231-7d7b9f5a-b990-4160-bf4d-b2ed703261e5.png)
+
 
 
 
