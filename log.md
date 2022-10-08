@@ -958,13 +958,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 89: 09 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**: Started ML Project Rock Paper Scissor  
 
-**Thoughts:**   
+**Thoughts:**   Created Replit and started reading the document, however, I feel this will be a tough one to start. 
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/194729831-2855790e-037b-4c15-a42c-7cdf082a85af.png)
+
 
 
 
