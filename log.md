@@ -969,13 +969,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 90: 10 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Completed Rock Paper Scissor 
 
-**Thoughts:**   
+**Thoughts:**   Beating Abbey (1 of the players) was tough and I still don't understand the logic fully, however, by chainging the memory the code was able to beat all players by 60% or more.
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/194774090-a0efe5ea-c0bd-4e10-85c3-2bb7a38e14c9.png)
+
 
 
 
