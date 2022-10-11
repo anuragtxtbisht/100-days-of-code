@@ -980,13 +980,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 91: 11 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Started building Image Classifier 
 
-**Thoughts:**   
+**Thoughts:**   This has been tough and challenging as I started working on Dog v Cat image classifier. Hopefulyl with some tutorials I can complete it by tomorrow. 
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/194999764-412af74d-e5df-41a3-9170-f77c1e4af9d9.png)
+
 
 
 
