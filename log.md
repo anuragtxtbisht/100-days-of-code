@@ -991,6 +991,48 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
+### Day 92: XX October, 2022
+
+**Today's Progress**:  Image Classifier done with 68% efficiency
+
+**Thoughts:**   This is a great challenege and I'll continue to practice as I think I can add a lot of value and even create a enw product out of this one.
+
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/195219167-2d9b7a51-df09-4e0d-81d3-0ec4f3c97790.png)
+
+*Link* - https://colab.research.google.com/github/freeCodeCamp/boilerplate-cat-and-dog-image-classifier/blob/master/fcc_cat_dog.ipynb
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
+### Day XX: XX October, 2022
+
+**Today's Progress**:  
+
+**Thoughts:**   
+
+**Attachment Code File:**
+
+
+
 ### Day XX: XX October, 2022
 
 **Today's Progress**:  
