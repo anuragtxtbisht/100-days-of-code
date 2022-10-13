@@ -1003,13 +1003,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 93: XX October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Started working with KNN project name - Book Recommendation
 
-**Thoughts:**   
+**Thoughts:**   Initial part looks easy with loading basic libraries, exploring and setting up the data 
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/195475156-79683ddf-e7e8-4eb0-be0c-41a376c12b46.png)
+
 
 
 
