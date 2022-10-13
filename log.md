@@ -1003,7 +1003,7 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day 93: XX October, 2022
+### Day 93: 13 October, 2022
 
 **Today's Progress**:  Started working with KNN project name - Book Recommendation
 
@@ -1014,13 +1014,15 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 94: 14 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Completed the Book Recommendation Project
 
-**Thoughts:**   
+**Thoughts:**   The learning from another person was extremely valuable. the way his code was setup and the explaination really helped me solve the problem quite easily
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/195475509-ac825bd2-d39b-46f7-94b9-4b5c17982036.png)
+*Link* https://colab.research.google.com/drive/1yHgvauoL_GIKX7x2hDaw1TXBTraYhE3v?usp=sharing
+
 
 
 
