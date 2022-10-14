@@ -1026,13 +1026,15 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 95: 15 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Started working on Linear Regression Health Cost Calculator project 
 
-**Thoughts:**   
+**Thoughts:**   Just started so, not really sure what to expect. 
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/195954900-6ed647dd-5936-4777-8554-63123597b8e4.png)
+
+
 
 
 
