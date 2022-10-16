@@ -1038,13 +1038,13 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 96: 17 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Still working on Linear Regression 
 
-**Thoughts:**   
+**Thoughts:**   A) wrote wrong day on twitter (day95) B) model is completed but, I am unable to pass it. Need more time to fine tune the model
 
-**Attachment Code File:**
+**Attachment Code File:** 
 
 
 
