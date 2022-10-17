@@ -1048,13 +1048,14 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 97: 18 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Completed  Linear Regression Health Cost Calculator project  100%
 
-**Thoughts:**   
+**Thoughts:**   This was a fin project and I feel much more confident working with Keras and on linear regression problems. I will try to use this in some more projects after completing 100days.
 
-**Attachment Code File:**
+**Attachment Code File:**![image](https://user-images.githubusercontent.com/59251378/196287247-d8852213-fe9d-4672-9643-5d92abf1ad78.png)
+
 
 
 
