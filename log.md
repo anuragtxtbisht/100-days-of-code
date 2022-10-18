@@ -991,7 +991,7 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day 92: XX October, 2022
+### Day 92: 12 October, 2022
 
 **Today's Progress**:  Image Classifier done with 68% efficiency
 
@@ -1059,27 +1059,28 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 
 
-### Day XX: XX October, 2022
+### Day 98: 19 October, 2022
+
+**Today's Progress**:  Started working on the Text Classification 
+
+**Thoughts:**   Just started going through google to find some resource. Learning Text classificaiton will be great as I deal with a lot of text related information in my work life. 
+
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/196556444-5322aee3-b184-4747-8a22-92c0c1f07505.png)
+
+
+
+
+### Day 99: 20 October, 2022
 
 **Today's Progress**:  
 
 **Thoughts:**   
 
-**Attachment Code File:**
+**Attachment Code File:** 
 
 
 
-### Day XX: XX October, 2022
-
-**Today's Progress**:  
-
-**Thoughts:**   
-
-**Attachment Code File:**
-
-
-
-### Day XX: XX October, 2022
+### Day 100: XX October, 2022
 
 **Today's Progress**:  
 
