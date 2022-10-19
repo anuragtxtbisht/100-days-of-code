@@ -1072,18 +1072,21 @@ For some reason I thought this will be quick and easy but, over 90mis and I am s
 
 ### Day 99: 20 October, 2022
 
-**Today's Progress**:  
+**Today's Progress**:  Working on the Text classifier
 
-**Thoughts:**   
+**Thoughts:**   Pulled the libraries and data; started structuring and tokenising the data. Hopefully by tomorrow will build the model and test it out.
 
-**Attachment Code File:** 
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/196778732-272402a9-0eb2-44b8-8f44-19fe80dd4428.png)
 
 
 
-### Day 100: XX October, 2022
 
-**Today's Progress**:  
+### Day 100: 21 October, 2022
 
-**Thoughts:**   
+**Today's Progress**:  Completed the Project and the 100days Challenge today
 
-**Attachment Code File:**
+**Thoughts:**   Glad to cross the finish line and acheive the certificate. 100days challenege was amazing and it has created a great habbit for me to code (or node) a bit everyday. I am happy that I stuck through the challenge and got to the end.
+
+**Attachment Code File:** ![image](https://user-images.githubusercontent.com/59251378/196779961-801651ca-c437-4572-b447-baaa5093a404.png)
+*Certificate* 
+
